@@ -1,0 +1,6 @@
+C:\Users\Acer\Desktop\SOFT UNI\Technology Fundamentals with C# - януари 2019\Intro and Basic Syntax\02. Passed\bin\Debug\_02.Passed.exe.config
+C:\Users\Acer\Desktop\SOFT UNI\Technology Fundamentals with C# - януари 2019\Intro and Basic Syntax\02. Passed\bin\Debug\_02.Passed.exe
+C:\Users\Acer\Desktop\SOFT UNI\Technology Fundamentals with C# - януари 2019\Intro and Basic Syntax\02. Passed\bin\Debug\_02.Passed.pdb
+C:\Users\Acer\Desktop\SOFT UNI\Technology Fundamentals with C# - януари 2019\Intro and Basic Syntax\02. Passed\obj\Debug\02. Passed.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\SOFT UNI\Technology Fundamentals with C# - януари 2019\Intro and Basic Syntax\02. Passed\obj\Debug\_02.Passed.exe
+C:\Users\Acer\Desktop\SOFT UNI\Technology Fundamentals with C# - януари 2019\Intro and Basic Syntax\02. Passed\obj\Debug\_02.Passed.pdb
