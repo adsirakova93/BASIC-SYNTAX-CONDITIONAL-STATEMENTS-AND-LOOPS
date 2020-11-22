@@ -1,0 +1,7 @@
+C:\Users\Acer\Desktop\SOFT UNI\Technology Fundamentals with C# - януари 2019\Intro and Basic Syntax\04. Back In 30 Minutes\bin\Debug\_04.Back_In_30_Minutes.exe.config
+C:\Users\Acer\Desktop\SOFT UNI\Technology Fundamentals with C# - януари 2019\Intro and Basic Syntax\04. Back In 30 Minutes\bin\Debug\_04.Back_In_30_Minutes.exe
+C:\Users\Acer\Desktop\SOFT UNI\Technology Fundamentals with C# - януари 2019\Intro and Basic Syntax\04. Back In 30 Minutes\bin\Debug\_04.Back_In_30_Minutes.pdb
+C:\Users\Acer\Desktop\SOFT UNI\Technology Fundamentals with C# - януари 2019\Intro and Basic Syntax\04. Back In 30 Minutes\obj\Debug\04. Back In 30 Minutes.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\SOFT UNI\Technology Fundamentals with C# - януари 2019\Intro and Basic Syntax\04. Back In 30 Minutes\obj\Debug\04. Back In 30 Minutes.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\SOFT UNI\Technology Fundamentals with C# - януари 2019\Intro and Basic Syntax\04. Back In 30 Minutes\obj\Debug\_04.Back_In_30_Minutes.exe
+C:\Users\Acer\Desktop\SOFT UNI\Technology Fundamentals with C# - януари 2019\Intro and Basic Syntax\04. Back In 30 Minutes\obj\Debug\_04.Back_In_30_Minutes.pdb

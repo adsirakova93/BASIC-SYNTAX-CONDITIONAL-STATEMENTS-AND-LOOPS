@@ -1,0 +1,7 @@
+C:\Users\Acer\Desktop\SOFT UNI\Technology Fundamentals with C# - януари 2019\Intro and Basic Syntax\03. Passed or Failed\bin\Debug\_03.Passed_or_Failed.exe.config
+C:\Users\Acer\Desktop\SOFT UNI\Technology Fundamentals with C# - януари 2019\Intro and Basic Syntax\03. Passed or Failed\bin\Debug\_03.Passed_or_Failed.exe
+C:\Users\Acer\Desktop\SOFT UNI\Technology Fundamentals with C# - януари 2019\Intro and Basic Syntax\03. Passed or Failed\bin\Debug\_03.Passed_or_Failed.pdb
+C:\Users\Acer\Desktop\SOFT UNI\Technology Fundamentals with C# - януари 2019\Intro and Basic Syntax\03. Passed or Failed\obj\Debug\03. Passed or Failed.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\SOFT UNI\Technology Fundamentals with C# - януари 2019\Intro and Basic Syntax\03. Passed or Failed\obj\Debug\03. Passed or Failed.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\SOFT UNI\Technology Fundamentals with C# - януари 2019\Intro and Basic Syntax\03. Passed or Failed\obj\Debug\_03.Passed_or_Failed.exe
+C:\Users\Acer\Desktop\SOFT UNI\Technology Fundamentals with C# - януари 2019\Intro and Basic Syntax\03. Passed or Failed\obj\Debug\_03.Passed_or_Failed.pdb
