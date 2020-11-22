@@ -1,0 +1,7 @@
+C:\Users\Acer\Desktop\SOFT UNI\Technology Fundamentals with C# - януари 2019\Intro and Basic Syntax\StudentInformation\bin\Debug\StudentInformation.exe.config
+C:\Users\Acer\Desktop\SOFT UNI\Technology Fundamentals with C# - януари 2019\Intro and Basic Syntax\StudentInformation\bin\Debug\StudentInformation.exe
+C:\Users\Acer\Desktop\SOFT UNI\Technology Fundamentals with C# - януари 2019\Intro and Basic Syntax\StudentInformation\bin\Debug\StudentInformation.pdb
+C:\Users\Acer\Desktop\SOFT UNI\Technology Fundamentals with C# - януари 2019\Intro and Basic Syntax\StudentInformation\obj\Debug\StudentInformation.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\SOFT UNI\Technology Fundamentals with C# - януари 2019\Intro and Basic Syntax\StudentInformation\obj\Debug\StudentInformation.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\SOFT UNI\Technology Fundamentals with C# - януари 2019\Intro and Basic Syntax\StudentInformation\obj\Debug\StudentInformation.exe
+C:\Users\Acer\Desktop\SOFT UNI\Technology Fundamentals with C# - януари 2019\Intro and Basic Syntax\StudentInformation\obj\Debug\StudentInformation.pdb
